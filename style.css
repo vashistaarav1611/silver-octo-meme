@@ -1,0 +1,34 @@
+.heading{
+	font-size: 23px;
+	width:100%;
+	margin: 0px;
+	box-shadow: 5px 5px 30px black;
+}
+.heading_div{
+	background-color: white;
+	padding: 10px;
+	float: none;
+	border-radius:20px;
+	color: black;
+	box-shadow: 5px 5px 5px black;
+}
+.heading_div2{
+	font-size: 18px;
+}
+.copyr_foot{
+	position: fixed;
+	bottom: 0px;
+	background-color: #6c757d;
+	text-align: center;
+	width:100%;
+	line-height: 3;
+	color: #fff;
+	border-color: #6c757d;
+	box-shadow: 5px 5px 50px #6c757d;
+}
+canvas{
+	box-shadow: 10px 10px 30px black;
+	border-radius: 20px;
+	margin-top: 2.5%;
+	border:10px solid black;
+}
